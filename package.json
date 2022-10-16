@@ -1,0 +1,18 @@
+{
+  "name": "css_mm_4e-master",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Gal",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "gulp-cli": "^2.3.0",
+    "sass": "^1.55.0"
+  }
+}
